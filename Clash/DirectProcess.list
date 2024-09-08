@@ -1,4 +1,4 @@
-;直连进程(windows)
+# 直连进程(windows)
 
 PROCESS-NAME,QQ.exe
 PROCESS-NAME,GTA5.exe
