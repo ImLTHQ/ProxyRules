@@ -1,8 +1,4 @@
-DOMAIN-SUFFIX,cloudflare.com
-DOMAIN-SUFFIX,cloudflare.net
-DOMAIN,dash.cloudflare.com
-DOMAIN,www.cloudflare.com
-DOMAIN,cloudflare.com
+DOMAIN-KEYWORD,cloudflare
 IP-CIDR,103.21.244.0/22
 IP-CIDR,103.22.200.0/22
 IP-CIDR,103.31.4.0/22
