@@ -3,4 +3,6 @@ PROCESS-NAME,GTA5.exe
 PROCESS-NAME,opproxy.exe
 PROCESS-NAME,opredirector.exe
 PROCESS-NAME,op.exe
+PROCESS-NAME,xunyouwebhelper.exe
+PROCESS-NAME,xunyou.exe
 PROCESS-NAME,WEAVE.exe
