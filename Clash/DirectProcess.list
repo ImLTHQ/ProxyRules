@@ -1,4 +1,4 @@
-# 直连进程(windows)
+# 直连进程-windows
 
 PROCESS-NAME,QQ.exe
 PROCESS-NAME,GTA5.exe
@@ -8,3 +8,5 @@ PROCESS-NAME,op.exe
 PROCESS-NAME,xunyouwebhelper.exe
 PROCESS-NAME,xunyou.exe
 PROCESS-NAME,WEAVE.exe
+PROCESS-NAME,bililive_browser.exe
+PROCESS-NAME,livehime.exe
